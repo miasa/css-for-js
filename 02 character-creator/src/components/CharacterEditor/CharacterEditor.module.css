@@ -48,10 +48,7 @@
 }
 
 @media (max-width: 760px) {
-  .characterEditor {
-    overflow: hidden;
-  }
-
+  
   .header {
     width: 100%;
   }
